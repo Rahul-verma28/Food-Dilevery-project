@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/food dilevery.css">
+
+</head>
+
+<body>
+    <div class="fullbody">
+        <section id="section1" class="section1">
+            <div class="front">
+                <nav class="navbar">
+                    <div class="logo">
+                        <a href="#section1"><img id="logo"
+                                src="https://th.bing.com/th/id/OIP.K-ThbvB8xqxVwAn2BXKyaAHaHa?w=208&h=208&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                                alt="my image">
+                        </a>
+                    </div>
+                    <div class="lists">
+                        <ul>
+                            <li class="listpart"><a href="#section1">Home</a></li>
+                            <li class="listpart"><a href="#section2">Services</a></li>
+                            <li class="listpart"><a href="#section3">Contact us</a></li>
+                            <li class="listpart"><a href="#section4">About us</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+
+            <div id="frontdiscreption" class="frontdiscreption">
+
+                <div class="mainline">
+                    <h1 class="heading">Welcome to MyOnlineMeal</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas vel in similique, vitae
+                        asperiores! Voluptatem enim, voluptate maiores ea aspernatur ipsam. Nam enim, repudiandae
+                        cupiditate iste iure quae? Cum!</p>
+                    <form action="https://www.zomato.com/india" method="get" target="_blank">
+                        <button class="searchButton" type="submit">Order Now</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <div id="section2" class="section2">
+            <h1>Our Services</h1>
+            <div class="contain">
+                <div class="cpart">
+                    <img class="food" src="https://th.bing.com/th/id/OIP.q3bmNXfYYQ8cR-YNuc1v_wHaEo?pid=ImgDet&rs=1"
+                        alt="foodimgage">
+                    <h2 class="xyz">Food Catering</h2>
+                    <p class="abc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt hic ea cumque
+                        provident, quibusdam error velit iure consectetur molestiae sequi. Distinctio, neque itaque
+                        velit voluptas doloremque culpa asperiores molestiae nisi.</p>
+                </div>
+                <div class="cpart">
+                    <img class="food"
+                        src="https://th.bing.com/th/id/OIP.jdpQnGMrxNnsZfO8gK_JLQAAAA?w=293&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                        alt="">
+                    <h2 class="xyz">Bulk Ordering</h2>
+                    <p class="abc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt hic ea cumque
+                        provident, quibusdam error velit iure consectetur molestiae sequi. Distinctio, neque itaque
+                        velit voluptas doloremque culpa asperiores molestiae nisi.</p>
+                </div>
+                <div class="cpart">
+                    <img class="food"
+                        src="https://th.bing.com/th/id/OIP.zwVssmBNrisJbuMaeQHetQHaFI?w=267&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.6"
+                        alt="">
+                    <h2 class="xyz">Food Ordering</h2>
+                    <p class="abc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt hic ea cumque
+                        provident, quibusdam error velit iure consectetur molestiae sequi. Distinctio, neque itaque
+                        velit voluptas doloremque culpa asperiores molestiae nisi.</p>
+                </div>
+            </div>
+            <div class="allfoods">
+                <h3 class="head">Categerioes</h3>
+
+                <div class="allcards" id="cardsline1">
+
+                    <div class="card1">
+
+                        <div class="card">
+                            <img src="https://th.bing.com/th/id/R.34dde0e312a17045dc9d6b6e0a318372?rik=kMjXKx7tJaX1aQ&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fjunk-food-transparent%2fjunk-food-transparent-9.png&ehk=l3VgJU9nRHJbXTp5olf6YmEe9D23UeiRLxghu7dGnM4%3d&risl=&pid=ImgRaw&r=0"
+                                alt="image" class="cardimage">
+                        </div>
+
+                        <div class="carditem">
+                            <p>Junk Foods</p>
+                            <p>Up to 20% Off</p>
+                            <form action="https://www.flipkart.com/" method="get" target="_blank">
+                                <button class="searchButton" type="submit">VIEW ALL</button>
+                            </form>
+                        </div>
+
+                    </div>
+
+                    <div class="card1">
+
+                        <div class="card">
+                            <img src="https://th.bing.com/th/id/OIP.2gXc4HCjxuffpMp-cxl5KQHaFj?w=260&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                                alt="image" class="cardimage">
+                        </div>
+
+                        <div class="carditem">
+                            <p>Non-veg</p>
+                            <p>Up to 30% Off</p>
+                            <form action="https://www.flipkart.com/" method="get" target="_blank">
+                                <button class="searchButton" type="submit">VIEW ALL</button>
+                            </form>
+                        </div>
+
+                    </div>
+
+                    <div class="card1">
+
+                        <div class="card">
+                            <img src="https://th.bing.com/th/id/OIP.3Yc1aEa_kW60ZtLIfec6uQAAAA?pid=ImgDet&w=150&h=150&c=7&dpr=1.5"
+                                alt="image" class="cardimage">
+                        </div>
+
+                        <div class="carditem">
+                            <p>Biryani</p>
+                            <p>Up to 50% Off</p>
+                            <form action="https://www.flipkart.com/" method="get" target="_blank">
+                                <button class="searchButton" type="submit">VIEW ALL</button>
+                            </form>
+                        </div>
+
+                    </div>
+
+                    <div class="card1">
+
+                        <div class="card">
+                            <img src="https://th.bing.com/th/id/OIP.ef4zPrY80h0GpUszycDx2wHaGK?w=190&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                                alt="image" class="cardimage">
+                        </div>
+
+                        <div class="carditem">
+                            <p>Veg Foods</p>
+                            <p>Up to 20% Off</p>
+                            <form action="https://www.flipkart.com/" method="get" target="_blank">
+                                <button class="searchButton" type="submit">VIEW ALL</button>
+                            </form>
+                        </div>
+
+                    </div>
+
+                    <div class="card1">
+
+                        <div class="card">
+                            <img src="https://th.bing.com/th/id/OIP.te9gPiD8UiUZ0XQ1qcAjEAHaEL?w=266&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                                alt="image" class="cardimage">
+                        </div>
+
+                        <div class="carditem">
+                            <p>Noodles</p>
+                            <p>Up to 40% Off</p>
+                            <form action="https://www.flipkart.com/" method="get" target="_blank">
+                                <button class="searchButton" type="submit">VIEW ALL</button>
+                            </form>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="section3" id="section3">
+            <h1 class="head">Contact Form</h1>
+
+            <div class="container">
+                <form action="/action_page.php">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                    <label for="mobileN">Mobile Number</label>
+                    <input type="number" id="mobileN" name="mobileN" placeholder="Enter your number..">
+
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something.."
+                        style="height:200px"></textarea>
+
+                    <input class="searchButton" type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+        <hr>
+        <div id="section4" class="section4">
+            <div class="part">
+                <p>ABOUT ZOMATO</p>
+                <p>Who We Are</p>
+                <p>Blog</p>
+                <p> Work With Us</p>
+                <p>Investor Relations</p>
+                <p>Report Fraud</p>
+                <p>Contact Us</p>
+            </div>
+            <div class="part">
+                <p>LEARN MORE</p>
+                <p>Privacy</p>
+                <p>Security</p>
+                <p>Terms</p>
+                <p>Site map</p>
+            </div>
+            <div class="part icons">
+                <span class="part">SOCIAL LINKS</span>
+                <div class="socialMediaPlatform">
+                    <img class="socialmediaicons"
+                        src="https://th.bing.com/th?id=OIP.2fOItrb6xE8XjN3Q1L0rEwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+                        alt="">
+                    <img class="socialmediaicons"
+                        src="https://www.bing.com/th?id=OIP.Mqb2Tx_b6qCQbXtfIIW2KQHaHa&pid=3.1&cb=&w=300&h=300&p=0"
+                        alt="">
+                    <img class="socialmediaicons"
+                        src="https://th.bing.com/th/id/OIP.S_vWc-rFMSJ8obok1cICvwHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                        alt="">
+                    <img class="socialmediaicons"
+                        src="https://th.bing.com/th/id/OIP.dmRx9bM-VEHaoNSrfWY2fgAAAA?w=194&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                        alt="">
+                    <img class="socialmediaicons"
+                        src="https://www.bing.com/th?id=OIP.Amcd6uomcBrkzfHXrg14gAHaHa&pid=3.1&cb=&w=300&h=300&p=0"
+                        alt="">
+                </div>
+                <div class="apple">
+                    <img class="playstore"
+                        src="https://th.bing.com/th/id/OIP._cFfCZtm5NL7ol_GTl3LJwHaCj?w=347&h=120&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+                        alt="">
+                </div>
+                <div class="andriod">
+                    <img class="playstore"
+                        src="https://th.bing.com/th/id/OIP.cllDT9yaTlc_CTCs3ynTUQHaCx?pid=ImgDet&w=600&h=225&rs=1"
+                        alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>this is copywrite claim &copy;&copy;&copy;using by Food dilevery <br> &copy;&copy;&copy;continuing past this
+            page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks
+            are properties of their respective owners. &copy;&copy;&copy;<br> &copy;&copy;&copy; Zomato™ Ltd. All rights
+            reserved&copy;&copy;&copy;.</p>
+    </footer>
+</body>
+
+</html>
