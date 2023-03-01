@@ -1,0 +1,228 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+nav {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.723);
+    display: inline-flex;
+    height: 10vh;
+    align-items: center;
+    position: fixed;
+}
+
+#logo {
+    margin: 50px;
+    height: 50px;
+    border-radius: 200px;
+}
+
+
+#logo:hover {
+    opacity: 0.7;
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+ul li a {
+    color: white;
+    font-size: 1rem;
+    margin: 5px;
+    padding: 6px;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: blueviolet;
+    background-color: white;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.section1 {
+    background-image: url("https://th.bing.com/th/id/OIP.12nWHJ7Q-UCsyGuoaYF9nQHaE7?pid=ImgDet&w=200&h=133&c=7&dpr=1.5");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: 100vw;
+    overflow-clip-margin: content-box;
+
+}
+
+.mainline {
+    max-height: 100vh;
+    padding:40vh 20vh;
+    text-align: center;
+    color: white;
+    line-height: 30px; 
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.head{
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 20px;
+}
+
+.searchButton {
+    padding: 5px 10px;
+    margin: 10px;
+    background-color: rgba(63, 62, 62, 0.551);
+    color: aliceblue;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+
+.container .searchButton{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+.searchButton:hover {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+.section2 {
+    height: auto;
+    padding: 30px;
+    text-align: center;
+}
+
+.contain {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cpart {
+    border: 2px solid orange;
+    border-radius: 5%;
+    margin: 10px;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.food {
+    width: 40vh;
+    margin-bottom: 20px;
+}
+
+.card{
+    display: inline-flex;
+    margin: 10px;
+    padding-left: 10px;
+    width: auto;
+}
+
+.card1 {
+    display: inline-block;
+    overflow: hidden;
+}
+
+.cardimage{
+    width: 30vh;
+}
+
+.carditem {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.carditem .searchButton{
+    background-color: rgb(157, 64, 244);
+}
+
+
+textarea , input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
+
+input {
+    padding: 6px 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 0px 20vw;
+    width: 60%;
+}
+
+.container .searchButton{
+    background-color: blue;
+}
+
+.section3{
+    background-image: url("https://cdn.pixabay.com/photo/2019/05/10/13/28/contact-us-4193523__340.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+.section4{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: rgb(225, 230, 234);
+}
+
+.part{
+    line-height: 5vh;
+    letter-spacing: 0.1rem;
+    
+
+}
+
+.aboutus{
+    display: inline;
+    border: 2px solid black;
+}
+
+.socialmediaicons{
+    width: 2vw;
+    border-radius: 200px;
+    line-height: -2px;
+}
+
+.playstore{
+    width: 30vh;
+}
+
+footer {
+    height: 10vh;
+    background-color: #181d24e1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
