@@ -53,8 +53,7 @@ ul li a:hover {
     background-image: url("https://th.bing.com/th/id/OIP.12nWHJ7Q-UCsyGuoaYF9nQHaE7?pid=ImgDet&w=200&h=133&c=7&dpr=1.5");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 100vh;
-    background-size: 100vw;
+    background-size: cover;
     overflow-clip-margin: content-box;
 
 }
@@ -110,6 +109,15 @@ ul li a:hover {
     display: inline-flex;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 800px) {
+    .contain {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+    }
 }
 
 .cpart {
